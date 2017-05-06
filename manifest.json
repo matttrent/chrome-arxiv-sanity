@@ -3,7 +3,7 @@
 
   "name": "arxiv-sanity",
   "description": "This extension loads the arxiv-sanity page for this arxiv page.",
-  "version": "1.0",
+  "version": "0.1",
 
   "browser_action": {
     "default_icon": "icon.png"
